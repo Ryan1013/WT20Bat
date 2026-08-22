@@ -334,7 +334,7 @@ video_links = {
     "E Gray": {
         "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12.mp4"
     },
-    "EI McGregor": {
+    "EI MacGregor": {
         "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13.mp4"
     },
     "AJ MacLeod": {
