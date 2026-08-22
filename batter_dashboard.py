@@ -354,7 +354,7 @@ video_links = {
     },
     "BLJ Gillgrass": {
         "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3.mp4"
-    }                
+    }
 }
 
 # ---------------- SIDEBAR FILTERS ---------------- #
@@ -375,12 +375,15 @@ selected_levels = st.sidebar.multiselect(
 
 teams = sorted(data['Batting Team'].dropna().unique())
 
-default_team = "Essex Women" if "Essex Women" in teams else teams[0]
+default_teams = ["Essex Women", "Essex Women 2nd XI"]
+
+# Only include teams that actually exist in the dataset
+default_teams = [team for team in default_teams if team in teams]
 
 selected_teams = st.sidebar.multiselect(
     "Batting Team",
     teams,
-    default=[default_team]
+    default=default_teams
 )
 
 # ---------------- BATTER SELECTION (DEPENDENT ON TEAM) ---------------- #
