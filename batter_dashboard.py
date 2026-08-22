@@ -101,7 +101,7 @@ data = load_data()
 
 video_links = {
     "A Dowse": {
-        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2025/metro-bank-one-day-cup---women-league-2/leicestershire-women-v-middlesex-women---16-aug-2025/VPM_260211_LEIW_MIDW_PLAYLIST_1080.mp4",
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5.mp4",
         "boundary": "https://vid.ecb.nvplay.net/video-highlights/2025/metro-bank-one-day-cup---women-league-2/leicestershire-women-v-middlesex-women---16-aug-2025/VPM_260209_LEIW_MIDW_PLAYLIST_1080_1.mp4"
     },
     "A Patel": {
@@ -309,7 +309,52 @@ video_links = {
     "LA Weston": {
         "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260606_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30.mp4",
         "boundary": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260606_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29.mp4"
-    }
+    },
+    "AE Bosch": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3.mp4"
+    },
+    "JL Gardner": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4.mp4"
+    },
+    "JL Grewcock": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7.mp4"
+    },
+    "CL Griffith": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8.mp4"
+    },
+    "LN Heap": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9.mp4"
+    },
+    "AD Carr": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10.mp4"
+    },
+    "KL Coppack": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11.mp4"
+    },
+    "E Gray": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12.mp4"
+    },
+    "El McGregor": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13.mp4"
+    },
+    "AJ MacLeod": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14.mp4"
+    },
+    "FH Miller": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260821_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15.mp4"
+    },
+    "SEN Munro": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080.mp4"
+    },
+    "GE Scrivens": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1.mp4"
+    },
+    "SAE Smale": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2.mp4"
+    },
+    "BLJ Gillgrass": {
+        "dismissal": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3.mp4"
+    }                
 }
 
 # ---------------- SIDEBAR FILTERS ---------------- #
